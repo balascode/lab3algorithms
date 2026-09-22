@@ -19,6 +19,7 @@ A numeric vector containing the shortest distance from
 \description{
 Computes the shortest path distances from a starting node
 to all other nodes in a weighted graph using Dijkstra's algorithm.
+Check that all edge weights are present and non-negative.
 }
 \references{
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
