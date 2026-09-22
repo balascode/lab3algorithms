@@ -14,7 +14,7 @@
 #' @export
 
 euclidean <- function(a, b) {
-  if((is.numeric(a) && length(a) == 1 &&
+  if(!(is.numeric(a) && length(a) == 1 &&
       is.numeric(b) && length(b) == 1)){
     stop()
   }
