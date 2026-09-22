@@ -1,6 +1,6 @@
 Package: lab3algorithms
 Type: Package
-Title:  Euclidean and Dijkstra Algorithms  
+Title: Euclidean and Dijkstra Algorithms  
 Version: 0.1.0
 Authors@R: c(
     person(
@@ -19,3 +19,4 @@ Description: Implements the Euclidean algorithm for greatest common
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Config/roxygen2/version: 8.1.0
