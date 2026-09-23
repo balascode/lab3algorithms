@@ -4,14 +4,16 @@ Title: Euclidean and Dijkstra Algorithms
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Venkata Balaji", "Anupoju",
+      given = "Venkata Balaji",
+      family = "Anupoju",
       email = "venan324@student.liu.se",
       role = c("aut", "cre")
-    )
+    ),
     person(
-      "Marwan", "Karim",
+      given = "Marwan",
+      family = "Karim",
       email = "marka671@student.liu.se",
-      role = c("aut", "cre")
+      role = c("aut")
     )
   )
 Description: Implements the Euclidean algorithm for greatest common
